@@ -1,5 +1,0 @@
-pyqt5
-imutils
-keras
-tensorflow
-opencv-python-headless
