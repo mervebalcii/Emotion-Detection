@@ -5,3 +5,4 @@ Face and emotion status detection is a technology that detects the emotional sta
 In this thesis study, in the first stage in line with the objectives, human facial features were scanned and identified. Then, emotional status determination was made by considering certain points on the detected human faces and happy, unhappy, neutral states of the person were determined in accordance with these results. It also gives the result of how many people's faces have been detected in addition to these.
 
 As a result, this obtained emotion status analysis was returned to the user as information. 
+![combined_chart](https://github.com/mervebalcii/Emotion-Detection/assets/77460192/d9e67317-08b4-4647-85aa-34f1f20029ea)
