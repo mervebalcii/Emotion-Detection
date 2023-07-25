@@ -6,4 +6,6 @@ In this thesis study, in the first stage in line with the objectives, human faci
 
 As a result, this obtained emotion status analysis was returned to the user as information. 
 
+![image](https://github.com/mervebalcii/Emotion-Detection/assets/77460192/8d8712bf-ee27-4806-9644-2cf76a349e37)
+
 ![combined_chart](https://github.com/mervebalcii/Emotion-Detection/assets/77460192/d9e67317-08b4-4647-85aa-34f1f20029ea)
